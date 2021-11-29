@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="fd86a5b2-1da2-4163-bf87-028ebf2ac740" name="egor" url="http://www.ispmanager.ru/">
+        <fileTransfer host="78.24.216.176" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" maxConnections="5" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
